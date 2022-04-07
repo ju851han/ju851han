@@ -31,6 +31,6 @@
 
 ---
 
-<img align="left" alt="ju851han's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju851han&layout=compact" />
-<img align="left" alt="ju851han's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ju851han&show_icons=true" />
+  | <img align="left" alt="ju851han's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju851han&layout=compact&hide_border=true" /> |  <img align="left" alt="ju851han's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ju851han&show_icons=true&hide_border=true" />| 
+  | ------------- | ------------- |
 
